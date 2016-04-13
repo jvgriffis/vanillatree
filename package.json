@@ -1,0 +1,27 @@
+{
+  "name": "vanillatree",
+  "version": "1.0.0",
+  "description": "Vanilla.js replacement of jstree for modern browsers",
+  "homepage": "https://github.com/finom/vanillatree",
+  "author": {
+	    "name": "Andrey Gubanov",
+	    "url": "https://github.com/finom"
+	  },
+	"contributors": [
+    { "name": "Jesse Griffis",
+	    "email": "jesse.griffis@nbtsolutions.com",
+	    "url": "http://nbtsolutions.com"
+    }
+	],
+  "repository": {
+	    "type": "git",
+	    "url": "https://github.com/jvgriffis/vanillatree"
+	  },
+  "keywords": [
+	    "vanilla",
+			"tree",
+			"jstree"
+	  ],
+  "license": "MIT",
+  "main": "vanillatree.min.js"
+}
